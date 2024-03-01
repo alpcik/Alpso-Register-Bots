@@ -1,0 +1,11 @@
+{
+    "registerLogChannel":"",
+    "chatChannel": "",
+    "WelcomeChannel": "",
+    "TagLogChannel": "",
+    "invLogChannel": "",
+    "BotVoiceChannel": "",
+    "UnregisterVoiceChannel":[],
+    "RulesChannel": ""
+  
+}

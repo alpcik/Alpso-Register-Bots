@@ -1,0 +1,33 @@
+{
+  "name": "alpso-register-bots",
+  "version": "0.0.1",
+  "description": "alpsoregisterbot",
+  "main": "alp.js",
+  "scripts": {
+    "start": "node alp.js"
+  },
+  "dependencies": {
+    "ark.db": "^2.7.1",
+    "axios": "^0.26.1",
+    "canvas": "^2.8.0",
+    "chartjs-node-canvas": "^3.2.0",
+    "cron": "^1.8.2",
+    "croxydb": "^0.0.7",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^1.9.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.13.10",
+    "parse-ms": "^2.1.0",
+    "weky": "^2.0.9"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "@alpso"
+  ]
+}

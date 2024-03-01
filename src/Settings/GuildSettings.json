@@ -1,0 +1,10 @@
+{
+  "BotOwnerID": [],
+  "token": "",
+  "prefix": [],
+  "status":"idle", 
+  "guildID": "",
+  "mongoUrl": "",
+  "botStatusText": "",
+  "registerPerm": ""
+}
